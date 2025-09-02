@@ -27,3 +27,10 @@ feature-tracking-opencv-demos/
 │── checkerboard_flow.py  # Demo 2: Optical flow on synthetic checkerboard
 │── shifted_image_flow.py # Demo 3: Optical flow on shifted real image
 ```
+## 🔧 Installation
+Clone the repo and install dependencies:
+
+```bash
+git clone https://github.com/adyasha95/feature-tracking-opencv-demos.git
+cd feature-tracking-opencv-demos
+pip install -r requirements.txt
